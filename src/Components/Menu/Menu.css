@@ -1,0 +1,5 @@
+.subcategory--container {
+    padding: 30px 120px;
+    display: flex;
+    flex-direction: column;
+}

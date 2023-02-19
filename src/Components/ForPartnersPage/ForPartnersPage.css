@@ -1,0 +1,60 @@
+.for--partners--container {
+    padding: 5px 120px;
+}
+
+.for--partners--container > h1 {
+    font-family: 'Random Grotesque Standard Bold';
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 92px;
+    text-align: center;
+    color: #50BDFF;
+}
+
+.intro {
+    display: flex;
+    justify-content: space-between;
+    gap: 122px;
+}
+
+.str {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #50BDFF;
+}
+
+.thin {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #50BDFF;
+}
+
+.info--cta {
+    margin-top: 30px;
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+
+.info--cta > button {
+    text-align: center;
+    padding: 12px 42px;
+    background: #50BDFF;
+    border-radius: 12px;
+
+    font-weight: 700;
+    font-size: 21px;
+    line-height: 26px;
+    color: #FFFFFF;
+}
+
+.info--cta {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #50BDFF;
+
+}

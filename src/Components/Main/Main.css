@@ -1,0 +1,141 @@
+.main--container {
+    padding: 60px 120px;
+    width: 100%;
+    display: flex;
+    position: relative;
+    flex-direction: column;
+}
+
+.utp {
+    font-family: 'Random Grotesque Standard Bold';
+    font-weight: 700;
+    font-size: 78px;
+    line-height: 110%;
+    color: #50BDFF;
+    margin: 0;
+}
+
+.utp--description {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    color: #7FCFFF;
+    margin: 20px 0 0 0;
+}
+
+.cta--button {
+    padding: 12px 42px;
+    background: #50BDFF;
+    border-radius: 12px;
+
+    font-weight: 700;
+    font-size: 21px;
+    line-height: 26px;
+    color: #ffffff;
+
+    margin-top: 40px;
+}
+
+.scheme {
+    margin-top: 250px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    z-index: 2;
+}
+
+.blue-bg--img {
+    position: absolute;
+    left: 50%;
+    top: 350px;
+    transform: translateX(-50%);
+    width: 100%;
+    max-height: 1700px;
+}
+
+.subcategoryName {
+    margin-top: 200px;
+    font-family: 'Random Grotesque Standard Bold';
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 92px;
+    text-align: center;
+    color: #50BDFF;
+}
+
+.vector {
+    position: absolute;
+}
+
+.advantages--card {
+    max-width: 1000px;
+    height: 585px;
+    border-radius: 23px;
+    background-color: #FFFFFF;
+    margin: 0 auto;
+    box-shadow: 5px 10px 25px rgba(0, 146, 235, 0.2);
+    padding: 75px 83px 56px 83px;
+    margin-top: 200px;
+    display: flex;
+    flex-direction: column;
+}
+
+.advantages--heading {
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.advantages--heading--logo {
+    width: 122px;
+    height: 44px;
+}
+
+.advantages--heading--text {
+    font-family: 'Random Grotesque Standard Bold';
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 52px;
+    color: #50BDFF;
+}
+
+.advantages--component--container {
+    margin-top: 65px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.advantages--component {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 380px;
+    max-height: 220px;
+    justify-content: flex-end;
+}
+
+.advantages--component > p {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    color: #50BDFF;
+    margin-top: 30px;
+}
+
+.advantages--card > button {
+    background: #50BDFF;
+    border-radius: 15.1464px;
+    padding: 16px 54px;
+
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 33px;
+    color: #FFFFFF;
+
+    text-align: center;
+    margin-top: 63px;
+
+    width: 320px;
+    align-self: center;
+}

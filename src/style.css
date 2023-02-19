@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-image: url("./images/pattern.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    font-family: 'Formular';
+}
+
+button {
+    all: unset;
+}

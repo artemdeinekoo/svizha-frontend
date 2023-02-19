@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Random Grotesque Standard Bold';
+    src: local('Random Grotesque Standard Bold'), local('RG-StandardBold'),
+        url('RG-StandardBold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+

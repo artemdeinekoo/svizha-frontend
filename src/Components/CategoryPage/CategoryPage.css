@@ -1,0 +1,21 @@
+.category--container {
+    padding: 5px 120px;
+
+}
+
+.category--container > h1 {
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 92px;
+    text-align: center;
+    color: #50BDFF;
+    margin-bottom: 40px;
+}
+
+.products {
+    display: flex;
+    gap: 50px;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
